@@ -247390,3 +247390,5 @@
 ||tr.zzztube.com^
 ||tr.zzztube.tv^
 ||zzzzfzgzbz.com^
+||gamereo.com^
+||quiz469.gamereo.com^
